@@ -1,0 +1,4 @@
+opencv-python
+deepface
+flask
+playsound==1.2.2
